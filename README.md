@@ -20,6 +20,16 @@ The primary objective of this project is to segment different species of the Iri
 - Plot then compare the different clustering values produced from Elbow method
 - Compare the result with the actual data
 
+## Images
+- The Elbow Method plot:
+  ![Elbow](https://github.com/user-attachments/assets/d827bd56-9743-472b-8e64-d65e758eee56)
+- Clustered plot with 2 clusters
+  ![k2](https://github.com/user-attachments/assets/9aa2dc03-cff8-4d8d-9ba7-b0617ea4bf0a)
+- Clustered plot with 3 clusters
+![k3](https://github.com/user-attachments/assets/6a9949d3-94a8-43f8-a99c-3bbff859e18e)
+- Clustered plot with 5 clusters
+  ![k5](https://github.com/user-attachments/assets/5039649a-8b6c-4f56-a9f2-290dd72a9bef)
+
 ## Project Insights
 - Cluster Alignment: KMeans was able to segment the Iris dataset into meaningful clusters that closely correspond to actual species, which is clearly separable.
 - Elbow Plot: The elbow method suggested 3 as the optimal number of clusters, which aligns with the known number of species.
