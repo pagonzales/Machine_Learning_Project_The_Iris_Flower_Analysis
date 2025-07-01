@@ -1,2 +1,12 @@
-# Machine_Learning_Project_The_Iris_Flower_Analysis
-This is a Data Science Machine Learning project focusing on the use of Unsupervised Machine Learning using K-Means Cluster Analysis. We incorporate the use of clustering the unscaled and scaled data, the standardization of the clustered data, and the use of Elbow Method to know the number of clustering.
+#  Unsupervised Machine Learning Project (The Iris Flower Analysis)
+## Project Objective
+
+## Data used
+- <a href = "https://github.com/pagonzales/Machine_Learning_Project_The_Iris_Flower_Analysis/blob/main/iris_dataset.csv">Dataset</a>
+## Questions
+
+## Process
+
+## Project Insights
+
+## Final conclusion
